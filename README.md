@@ -96,9 +96,3 @@ src/
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Contact
-
-Yamini Vijaywargiya - [yaminivijaywargiya2001@gmail.com](mailto:yaminivijaywargiya2001@gmail.com)
-
-Project Link: [https://github.com/y2010-ops/Employee-Frontend](https://github.com/y2010-ops/Employee-Frontend) 
